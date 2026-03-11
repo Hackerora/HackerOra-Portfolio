@@ -1,0 +1,21 @@
+body{
+font-family: Arial;
+background:black;
+color:lime;
+text-align:center;
+}
+
+header{
+background:#111;
+padding:20px;
+}
+
+section{
+margin:30px;
+padding:20px;
+border:1px solid lime;
+}
+
+ul{
+list-style:none;
+}
